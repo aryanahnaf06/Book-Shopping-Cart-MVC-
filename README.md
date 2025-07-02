@@ -34,16 +34,6 @@ A simple Book Shopping Cart web application built using the **MVC (Model-View-Co
 
 ```
 
-Book-Shopping-Cart-MVC/
-│
-├── config/              # Database and application config
-├── controllers/         # Handle user requests & control flow
-├── models/              # Interact with the database
-├── views/               # HTML templates and UI
-├── assets/              # CSS, JS, Images
-├── index.php            # Entry point
-└── README.md            # Project documentation
-
 ````
 
 ---
